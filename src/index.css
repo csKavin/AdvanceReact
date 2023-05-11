@@ -1,0 +1,16 @@
+@import '~bootstrap/dist/css/bootstrap.css';
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Text&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Red Hat Text', sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--BackgroundColor);
+}
+
+:root {
+  --primaryColor: #e05717;
+  --BackgroundColor: #f8f8f7;
+}
+
